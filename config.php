@@ -1,3 +1,3 @@
 <?php
 
-$base_url = "http://localhost/WebApp/";
+$base_url = "http://localhost/RecipeWebApp/";
